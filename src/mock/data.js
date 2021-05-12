@@ -31,7 +31,7 @@ export const projectsData = [
     img: 'scar.png',
     title: 'Vision-based Self-Driving Car',
     info: 'In this project we proposed a lightweight deep learning method which base on CNN architecture and Control algorithm.',
-    info2: 'Then deploy this method to make  a golf-car run itself',
+    info2: 'Then deploy this method to make  a golf-car running itself',
     url: '',
     repo: '', // if no repo, the button will not show up
   }
